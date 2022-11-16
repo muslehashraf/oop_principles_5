@@ -2,7 +2,7 @@ package class_object;
 
 public class StudentTeacherPractice2 {
     public static void main(String[] args) {
-        /*
+         /*
         Create a Teacher object -> Alex Smith
         Create 4 Student objects    -> John Doe 15
                                     -> Jane Doe 20
